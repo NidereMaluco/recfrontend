@@ -1,0 +1,59 @@
+nav li{
+    display: inline;
+}
+
+nav a{
+ text-transform: uppercase;
+ color: black;
+ font-weight: bold;
+}
+
+.serviços:hover{
+color: #0CCE6B;
+}
+
+nav{
+    text-align: center;
+}
+
+.navegaçao{
+    background-color: azure;
+    padding: 20px;
+}
+
+.titulo_pag{
+    font-size: 90px;
+    color: #0CCE6B;
+    text-align: center;
+
+}
+
+.imagem_entrada{
+    height: 600px;
+    float: left;
+    border-radius: 20px;
+}
+
+.texto2{
+    background-color: #363537;
+    border-radius: 20px;
+}
+
+.texto_principal{
+    font-size: 45px;
+    color: #0CCE6B;
+   
+    
+}
+
+footer{
+    text-align: center;
+    background-color: aliceblue;
+    background-position: bottom;
+    padding: 50px;
+    margin-bottom: 0%;
+}
+
+body{
+    background-color: black;
+}
